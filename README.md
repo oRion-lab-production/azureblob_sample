@@ -7,6 +7,9 @@ products:
 page_type: sample
 ---
 
+https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=npm#install-azurite
+https://azure.microsoft.com/en-us/products/storage/storage-explorer
+
 # .NET Photo Gallery Web Application Sample with Azure Blob Storage
 
 This sample application creates a web photo gallery that allows you to host and view images through a .NET web frontend. The code sample also includes functionality for deleting images. At the end, you have the option of deploying the application to Azure.
